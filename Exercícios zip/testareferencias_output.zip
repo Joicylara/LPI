@@ -1,0 +1,19 @@
+TestaReferencias.java:4: error: cannot find symbol
+        	conta	c1	=new conta();
+        	^
+  symbol:   class conta
+  location: class TestaReferencias
+TestaReferencias.java:4: error: cannot find symbol
+        	conta	c1	=new conta();
+        	     	  	     ^
+  symbol:   class conta
+  location: class TestaReferencias
+TestaReferencias.java:6: error: cannot find symbol
+			conta	c2	=	c1;		//	linha	importante!
+			^
+  symbol:   class conta
+  location: class TestaReferencias
+3 errors
+
+
+** Process exited - Return Code: 1 **
